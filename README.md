@@ -36,7 +36,7 @@ python main.py
 * Enter the name of a state.
 * Case-sensitive is not in effect, but correct spelling is.
 * Type exit to close the game and the game will create a states_to_learn.csv file.
-* States_to_learn.csv contains all states you failed to guess correctly.
+* States_to_learn.csv contains all states the user failed to guess correctly.
 
 ### Built With
 * [Python](http://www.python.org)
